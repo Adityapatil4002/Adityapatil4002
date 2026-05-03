@@ -1,5 +1,10 @@
 # 💫 About Me:
-🔭 I’m currently working on full-stack web applications using the MERN stack.<br>👯 I’m looking to collaborate on machine learning and data science projects.<br>🤝 I’m looking for help with advanced concepts in ML and deploying ML models.<br>🌱 I’m currently learning Next.js, machine learning, and data science.<br>💬 Ask me about web development, JavaScript, or AI project ideas!<br>⚡ Fun fact: I’m a gaming enthusiast and love capturing the world through my lens 📸<br><br>
+🔭 Currently building scalable full-stack applications and SaaS products using modern technologies  
+👯 Open to collaborating on web development, AI, and real-time systems projects  
+🤝 Interested in solving real-world problems through data-driven and intelligent solutions  
+🌱 Continuously learning advanced full-stack development, system design, and machine learning  
+💬 Ask me about React, Node.js, system design, or building impactful projects  
+⚡ Fun fact: I enjoy exploring new tech, solving challenges, and creating things that actually matter 🚀<br><br>
 
 
 ## 🌐 Socials:
