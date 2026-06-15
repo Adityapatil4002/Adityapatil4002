@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityapatil4002&label=Profile%20views&color=0e75b6&style=flat" alt="adityapatil4002" /> </p>
 
-- 🔭 I’m currently working on **Machine Learning**
+## 👋 About Me
 
-- 🌱 I’m currently learning **Data science, Machine Learning, next.jsa**
+I'm a passionate software developer who enjoys building scalable applications, exploring new technologies, and solving real-world problems through code.
 
-- 👯 I’m looking to collaborate on **full stack projects**
-
-- 👨‍💻 All of my projects are available at [https://portfolio-one-rho-13.vercel.app/](https://portfolio-one-rho-13.vercel.app/)
-
-- 📫 How to reach me **adityapatil6604@gmail.com**
+- 💻 Interested in Software Development, AI, and Cloud Technologies
+- 🌱 Currently learning and improving my skills every day
+- 🚀 Love working on open-source and personal projects
+- 🤝 Open to collaboration and knowledge sharing
+- ⚡ Always curious about how things work under the hood
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
